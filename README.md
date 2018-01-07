@@ -3,6 +3,7 @@
 以下均为我仔细阅读/认真实践过的学习资料，每一篇都能让初学者获益匪浅（排名不分先后，持续更新）
 
 ### 前端
+- [underscorejs](http://underscorejs.org/)：underscorejs的源码阅读，能充分了解优秀的函数式编程，适合有一定JS基础的人。
 - [慕课网](http://www.imooc.com/)：视频教程网站，质量远高于培训班流出的视频，适合刚入门的新人。
 - [JS标准教程](http://javascript.ruanyifeng.com/)：阮一峰的js教程，比较全面，覆盖知识点广且易于学习，适合刚入门的新人。
 - [MDN](https://developer.mozilla.org/zh-CN/)：比较权威的资料站，也有少量教程，知识点远比W3school准确，适合刚入门的新人。
@@ -23,7 +24,6 @@
 - [PHP中文手册](http://php.net/manual/zh/)：可能是学习PHP最常打开的网站，适合所有学习PHP的人。
 - [Laravel中文社区](https://laravel-china.org/)：学习资料很多，Laravel大法好，适合想学习一个简单易用PHP框架的人。
 - [MeDoo](http://medoo.lvtao.net/doc.php)：小巧的PHP-MySql框架，源码值得阅读，适合有一定PHP基础的人。
-- [在线PHP代码测试](https://www.shucunwang.com/RunCode/php/)：小工具，打开网页即可跑PHP脚本，适合随手做测试用，适合所有学习PHP的人。
 
 
 ### Go

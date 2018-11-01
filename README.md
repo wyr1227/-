@@ -13,6 +13,7 @@
 - [Vue官方教程](http://cn.vuejs.org/v2)：文档简单易读，容易入门，适合有一定js基础的人。
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：优秀的js进阶教程，适合正在学习js的人。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)：可能是最优秀的js进阶教程，学习js必读书，无可替代，适合有一些js基础的人。
+- [浏览器渲染过程](https://segmentfault.com/a/1190000010298038#articleHeader8)：比较全的讲解浏览器渲染过程的博客，适合有一定js基础的人。
 - [webpack中文文档](https://doc.webpack-china.org/configuration/)：学习前端工程化必读，文档友好，适合需要使用webpack的人。
 - [7天学会nodejs](https://www.lvtao.net/content/book/node.js.htm#1)：还可以的node教程，适合有一定js基础的人。
 - [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide): 不错的js入门教程, 适合有一定js基础的人

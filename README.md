@@ -20,18 +20,7 @@
 - [Nodejs官网教程](http://nodejs.cn/api/)：官网是一个不错的入门后，去学习的地方，适合有一定js基础的人。
 - [Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/): 很不错的vue原理解析, 适合想深入学习Vue的人
 - [caniuse](https://caniuse.com/)：一个用来查询浏览器支持css，js的网站，很适合要学习兼容个个浏览器的人
-
-### PHP
-- [PHP之道](http://laravel-china.github.io/php-the-right-way/): 学习PHP必读书, 资源丰富,循序渐进, 适合所有学习PHP的人
-- [PHP中文手册](http://php.net/manual/zh/)：可能是学习PHP最常打开的网站，适合所有学习PHP的人。
-- [Laravel中文社区](https://laravel-china.org/)：学习资料很多，Laravel大法好，适合想学习一个简单易用PHP框架的人。
-- [MeDoo](http://medoo.lvtao.net/doc.php)：小巧的PHP-MySql框架，源码值得阅读，适合有一定PHP基础的人。
-
-
-### Go
-- [雨痕的学习笔记](https://github.com/qyuhen/book)：详细的Go学习路线，新人必读书，适合所有学习Go的新人。
-- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN)：Go入门的好书，适合所有学习Go的新人。
-- [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)：Go进阶必读书，适合了解Go语法基础的新人。
+- [正则匹配规则](https://blog.csdn.net/lxcnn/article/details/4756030)： 目前看到得最好得文章
 
 ### Lisp
 - [SICP](https://book.douban.com/subject/1148282/): 建议购买实体书, 当之无愧的神书, 任何程序员都应当读一读, 适合有较强思维能力和不错编程功底的程序员
@@ -43,9 +32,6 @@
 ### Redis
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook): redis入门佳作,详细解析redis各种细节,适合学习redis的新人
 
-### Linux
-- [Shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)：优秀的入门书，适合所有学习Shell的新人。
-- [Linux中国社区](https://linux.cn/)：内有大量的Linux学习资源，适合所有学习linux的人。
 
 ### 书籍
 - [SQL反模式](https://book.douban.com/subject/6800774/)：极其优秀的数据库设计书籍，无论是否学习SQL，这本书都会对你大有帮助，适合所有学习编程的人。
@@ -58,12 +44,8 @@
 - [Vps搭建介绍](http://blog.csdn.net/boxuerixin/article/details/72393518)：推荐给搞不清楚 Shadowsocks 的配置问题
 
 
-## 写在后面的话
+## 后话
 
-人力有时尽，物力有时穷。
+列表里得都是我详细阅读过得，比较优秀学习资料。
 
-本列表也是为了抛砖引玉，目前我详细阅读过的，比较优秀的资料只有上述这些
-
-如果你还有其他特别优秀的书籍和教程，欢迎提交Issues与我分享，我将把优秀的资源填充进这个列表
-
-www.bibixi.top 个人博客欢迎来访(内容未完善)
+欢迎PR Or Issues

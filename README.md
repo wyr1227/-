@@ -3,38 +3,17 @@
 以下均为我仔细阅读/认真实践过的学习资料，每一篇都能让初学者获益匪浅（排名不分先后，持续更新）
 
 ### 前端
-- [underscorejs](http://underscorejs.org/)：underscorejs的源码阅读，能充分了解优秀的函数式编程，适合有一定JS基础的人。
-- [慕课网](http://www.imooc.com/)：视频教程网站，质量远高于培训班流出的视频，适合刚入门的新人。
-- [JS标准教程](http://javascript.ruanyifeng.com/)：阮一峰的js教程，比较全面，覆盖知识点广且易于学习，适合刚入门的新人。
-- [MDN](https://developer.mozilla.org/zh-CN/)：比较权威的资料站，也有少量教程，知识点远比W3school准确，适合刚入门的新人。
 - [ES6入门指南](http://es6.ruanyifeng.com/)：ES6标准教程，基本是学习ES6必看，适合有一定JS基础的人。
 - [深入理解JavaScript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)：长篇博文，生动形象，适合js入门新人。
-- [React小书](http://huziketang.com/books/react/)：优秀的React中文教程，适合js基础较好的人。
-- [Vue官方教程](http://cn.vuejs.org/v2)：文档简单易读，容易入门，适合有一定js基础的人。
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：优秀的js进阶教程，适合正在学习js的人。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)：可能是最优秀的js进阶教程，学习js必读书，无可替代，适合有一些js基础的人。
-- [浏览器渲染过程](https://segmentfault.com/a/1190000010298038#articleHeader8)：比较全的讲解浏览器渲染过程的博客，适合有一定js基础的人。
-- [webpack中文文档](https://doc.webpack-china.org/configuration/)：学习前端工程化必读，文档友好，适合需要使用webpack的人。
-- [7天学会nodejs](https://www.lvtao.net/content/book/node.js.htm#1)：还可以的node教程，适合有一定js基础的人。
-- [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide): 不错的js入门教程, 适合有一定js基础的人
-- [Nodejs官网教程](http://nodejs.cn/api/)：官网是一个不错的入门后，去学习的地方，适合有一定js基础的人。
-- [Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/): 很不错的vue原理解析, 适合想深入学习Vue的人
 - [caniuse](https://caniuse.com/)：一个用来查询浏览器支持css，js的网站，很适合要学习兼容个个浏览器的人
-- [正则匹配规则](https://blog.csdn.net/lxcnn/article/details/4756030)： 目前看到得最好得文章
+- [正则匹配规则](https://blog.csdn.net/lxcnn/article/details/4756030)： 目前看到得最好得关于正则得文章
 
 ### Lisp
 - [SICP](https://book.douban.com/subject/1148282/): 建议购买实体书, 当之无愧的神书, 任何程序员都应当读一读, 适合有较强思维能力和不错编程功底的程序员
 
-### MySQL
-- [MySql教程](http://www.runoob.com/mysql/mysql-tutorial.html)：有点旧的MySQL教程，好在MySQL语法变化不大，适合新手入门学习。
-- [MySql错误代码速查表](http://www.cnblogs.com/skillCoding/archive/2011/09/07/2169932.html)：必备工具，适合所有学习MySQL的人。
-
-### Redis
-- [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook): redis入门佳作,详细解析redis各种细节,适合学习redis的新人
-
-
 ### 书籍
-- [SQL反模式](https://book.douban.com/subject/6800774/)：极其优秀的数据库设计书籍，无论是否学习SQL，这本书都会对你大有帮助，适合所有学习编程的人。
 - [收获，不止Oracle](https://book.douban.com/subject/23857303/)：很优秀的一本关于数据库的数，无论是否学习Oracle都可以阅读
 
 ### 其他
